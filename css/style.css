@@ -1,0 +1,50 @@
+html,
+body {
+  font-family: Arial;
+  height: 100%;
+  margin: 0;
+}
+
+
+#map {
+  bottom:0px;
+  height: 100%;
+  left: 362px;
+  position: absolute;
+  right: 0px;
+}
+
+h2 {
+  color: #8b8b8b;
+  font-size:20px;
+  font-family:Arial;
+}
+
+menu {
+  background: rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 2px;
+  height: 100%;
+  padding-left: 30px;
+  text-align: left;
+  width: 340px;
+  margin: 0;
+}
+
+#searchbar {
+  font-size: 14px;
+  width:250px;
+  height: 25px;
+  overflow:hidden;
+}
+
+ul {
+  cursor:pointer;
+  color:rgb(136, 136, 136);
+  margin:25px 0;
+  padding: 0%;
+}
+  
+ul:hover {
+  color:rgb(255, 255, 255);
+}
